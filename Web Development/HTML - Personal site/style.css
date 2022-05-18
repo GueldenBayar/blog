@@ -1,0 +1,43 @@
+body {
+  background-color: #ffbcd1;
+}
+
+.bio {
+  color: #6867ac;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+  border-radius: 10%;
+}
+
+h1 {
+  color: #6867ac;
+}
+
+.aspiring {
+  color: #97c4b8;
+}
+
+h3 {
+  color: #6867ac;
+}
+
+li {
+  color: #97c4b8;
+}
+
+td {
+  color: #97c4b8;
+}
+
+th {
+  color: #6867ac;
+}
+
+a {
+  color: #97c4b8;
+  text-decoration: none;
+  text-transform: uppercase;
+}
